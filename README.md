@@ -10,3 +10,4 @@ Includes base project template for NodeJs, MongoDB, Typescript and Lint
 Includes final code. 😃
 
 Feel Free to share any doubts or corrections.
+"# event-management-MERN" 

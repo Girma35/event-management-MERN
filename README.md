@@ -1,2 +1,1 @@
-"# event-management-MERN" 
-"# event-management-MERN" 
+read me

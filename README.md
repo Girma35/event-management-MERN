@@ -102,17 +102,18 @@ Effortlessly plan, organize, and execute university events with this modern, eff
 
 ## 🤝 **Contributors**
 
-| **Name**            | **Role**           |
-|---------------------|--------------------|
-| Girma Wakeyo        | Developer          |
-| Abel Tadesse        | Developer          |
-| Dagem Zerihun       | Developer          |
-| Abenezer Alemayehu  | Developer          |
-| Folikia Nigussie    | Developer          |
-| Milkesa Bulti       | Developer          |
+| **Name**            | **Role**                 |
+|---------------------|--------------------------|
+| Girma Wakeyo        | Lead Engineer            |
+| Abel Tadesse        | Front-End Developer      |
+| Dagem Zerihun       | Quality Assurance (QA)   |
+| Abenezer Alemayehu  | UI/UX Designer           |
+| Folikia Nigussie    | Requirements Analyst     |
+| Milkesa Bulti       | Back-End Developer       |
 
 ---
 
 ## 📜 **License**
 
 This project is licensed under the [MIT License](LICENSE).
+
